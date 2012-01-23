@@ -1,0 +1,54 @@
+body {
+	width:980px;
+  	height: 100%;
+  	margin: auto;
+  	background-image: url('../images/design/graphy.png');
+  	font-family: Georgia;
+  	text-align: center;
+}
+
+a:link{
+	color: #000;	
+}
+
+a:visited {
+	color: purple;
+}
+
+a:hover {
+	color: #1f1e1c;
+}
+
+article {
+	margin-top: 20px;
+	border: 5px solid #999;
+	background-color: #fff;
+	height: 700px;
+	opacity: 0.7;
+}
+
+header {
+	color: #1f1e1c;
+	font-size: 20px;
+}
+
+section {
+	margin-top: 50px;
+	color: #000;
+	text-align: left;
+	padding: 0 10px 5px 15px;
+}
+
+.button {
+	margin-left: 370px;
+	border-radius: 10px;
+	text-align: center;
+	padding: 10px;
+	width: 150px;
+	background-color: #fd9500;
+	font-size: 18px;
+}
+
+.separator {
+	height: 10px;
+}
