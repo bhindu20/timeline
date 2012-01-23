@@ -1,0 +1,6 @@
+.pydevproject
+.project
+lockdown.py
+*.pyc
+*/*.pyc
+/settings.py
