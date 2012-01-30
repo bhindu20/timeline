@@ -1,0 +1,84 @@
+
+body {
+	background:#bfb097 url(images/body-bg.jpg) 0 0 repeat-x;
+	}
+
+#placement {
+	background-color:rgba(50,34,7,0.2);
+	border:1px solid rgba(255,255,255,0.5);
+	padding:6px;
+	padding-bottom:22px;
+	}
+.timeglider-container {
+    background:url(images/timeline-bg.jpg) 0 0 repeat-x;
+	border:1px solid #5a4a36;
+	padding-bottom:14px;
+	-webkit-box-shadow: inset 0px 0px 60px 5px rgba(50, 34, 7, 1);
+	-moz-box-shadow: inset 0px 0px 60px 5px rgba(50, 34, 7, 1);
+	box-shadow: inset 0px 0px 60px 5px rgba(50, 34, 7, 1); ; 
+	}
+.timeglider-footer {
+	padding:10px;
+	width:auto;
+	right:0;
+	background: #332b22; /* Old browsers */
+	background: -moz-linear-gradient(top,  #332b22 0%, #1a1611 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#332b22), color-stop(100%,#1a1611)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #332b22 0%,#1a1611 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #332b22 0%,#1a1611 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #332b22 0%,#1a1611 100%); /* IE10+ */
+	background: linear-gradient(top,  #332b22 0%,#1a1611 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#332b22', endColorstr='#1a1611',GradientType=0 ); /* IE6-9 */
+	}
+	.timeglider-logo {display:none;}
+	
+.timeglider-tick {
+	background-color:rgba(255,255,255,0.4);
+	}
+.timeglider-slider-container {
+	background-color:rgba(130,105,65,0.5);
+	border-radius:0;
+	right:0; top:0;
+	padding-left: 20px;
+	-webkit-box-shadow: inset -10px 10px 20px 0px rgba(50, 34, 7, 0.2);
+	-moz-box-shadow: inset -10px 10px 20px 0px rgba(50, 34, 7, 0.2);
+	box-shadow: inset -10px 10px 20px 0px rgba(50, 34, 7, 0.2); 
+	}
+.timeglider-date-display {
+	color:#dfd9cd;
+	font:normal 55px "league-gothic",Helvetica, Arial, sans-serif;
+	text-shadow:4px 4px 8px #695838;
+	text-transform:uppercase;
+	}
+.titleBar {
+	font:normal 14px "league-gothic",Helvetica, Arial, sans-serif;
+	text-transform:uppercase;	
+	}
+	.tg-timeline-envelope .titleBar .timeline-title {font-weight:normal;text-shadow:none; font-size:18px;}
+	
+.tg-timeline-env-buttons {margin-top:0; font-family:Helvetica, Arial, sans-serif; font-size:9px; font-weight:bold;}
+
+.ui-slider-vertical {
+	background: #26211b; /* Old browsers */
+	background: -moz-linear-gradient(left,  #26211b 0%, #443b30 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, right top, color-stop(0%,#26211b), color-stop(100%,#443b30)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(left,  #26211b 0%,#443b30 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(left,  #26211b 0%,#443b30 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(left,  #26211b 0%,#443b30 100%); /* IE10+ */
+	background: linear-gradient(left,  #26211b 0%,#443b30 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#26211b', endColorstr='#443b30',GradientType=1 ); /* IE6-9 */
+	}
+.timeglider-zoomlevel-display {
+	background-color:rgba(52,41,30,0.3);
+	color:#fff;
+	}
+.timeglider-event-title {
+	color:#272119;
+	}
+	
+	
+	
+	
+	
+	
+	
